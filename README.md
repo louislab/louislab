@@ -1,3 +1,10 @@
-## My thoughts on AI 🗣️
+## Hi, glad to see u here 👋
 
-AI excels at tasks like programming, writing articles, and generating images, demonstrating an impressive ability to process and mimic human activities. However, it's crucial not to overestimate AI's capabilities. AI lacks the deep understanding, creativity, and emotional intelligence that humans possess, which are essential for navigating complex and nuanced situations. This is why experts remain indispensable. Aspire to become an expert in your field, leveraging AI as a powerful tool while recognizing the unique value that human expertise brings.
+Sorry that my GitHub isn't frequently updated, as I'm currently working on some other private projects. 🦾
+
+But don't hesitate to reach out to me if you're looking for the right person to help solve your problems.
+
+I'm good at
+- Finding the best solutions for projects of different scales and needs
+- Streamlining the development workflow to accelerate overall project progress
+- Developing handy tools to solve problems that users aren't even aware of
